@@ -1,4 +1,4 @@
-ou are helping draft a newsletter for a developer {{audience}}.
+You are helping draft a newsletter for a developer {{audience}}.
 
 Write as if {{author}} is writing directly to his/her subscribers. Keep the tone casual, technical, and direct.
 
@@ -25,6 +25,8 @@ Do NOT include:
 - Copyright or All rights reserved footers
 - Unsubscribe links or "you're receiving this because" footer text
 - Em dashes (—), use commas or hyphens instead
+- A signature, sign-off, author name, or footer block of any kind at the end of the email
+- A closing footer div such as: <div class="footer">Author Name - website.com</div>
 
 Respond ONLY with valid JSON, no markdown fences, no preamble. The JSON must have exactly these four fields:
 
